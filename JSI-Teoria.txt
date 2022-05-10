@@ -1,0 +1,11 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: son un espacio donde se almacena información que podemos utilizar luego, técnicamente son espacios de memoria destinados a guardar dicha información
+
+Strings: son cadenas de caractares, pueden ser símbolos, números o letras
+
+Funciones (argumentos, return): son trozos de código que pueden ser reutilizados tantas veces como sea necesario. Argumentos son variables que reciben información del exterior de la función para ser utilizada dentro de ella. Return sirve para devolver la información obtenida de la función
+
+Declaraciones if: son condiciones que bifurcan el camino que sigue la ejecución del código que estamos trabajando, da dos posibilidades una para true y otra para false
+
+Valores booleanos (true, false): son valores que devuelven true cuando una determianda condición se cumple o false cuando no lo hace, 
