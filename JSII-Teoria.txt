@@ -1,0 +1,4 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+for: se utiliza para realizar acciones repetitivas, por ejemplo si queremos mostrar los número del 1 al 10, podemos usar for.
+&&, ||, !: estos osn operadores lógicos, el primero significa "Y", donde para que sea verdadero deben cumplirse todas las condiciones que se tomen en cuenta. El segundo es "O", donde para que sea verdadero debe cunplirse por lo menos una de las condicones. El tercero es "Not" e invierte el valor que le sigue, si el valor es true dará por resultado false
