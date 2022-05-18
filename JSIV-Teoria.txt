@@ -1,0 +1,11 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos: son un conjunto de propiedades, de caracteristicas de una misma cosa
+
+Propiedades: es una colección de claves-valores, es decir el contenido de los objetos
+
+Métodos: es una función dentro de un objeto, array, etc. Es cuando una función no está sola sino dentro de alguna otra cosa
+
+Bucle for…in: es un procedimiento que permite recorrer el contenido de objetos.
+
+Notación de puntos vs notación de corchetes: son dos formas distintas de manipular los datos contenidos en un objeto, la notación de puntos nos pide poner el nombre del objeto seguido de un punto y luego una clave (objeto.clave); la notación con corchetes pide colocar el nombre del objeto seguido de la clave entre corchetes (objeto[clave]). Ambos sirven para llamar, mostrar, modificar, eliminar o agregar contenido de un objeto.
